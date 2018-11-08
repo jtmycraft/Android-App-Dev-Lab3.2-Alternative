@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3_2Alternative</string>
+    <string name="message">信息</string>
+    <string name="show_message">显示消息</string>
+    <string name="greeting">你好, Kian Keong</string>
+</resources>
